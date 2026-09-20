@@ -2162,20 +2162,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=126149&uid=757&deviceMac=00:1A:79:04:
 
 #-----------------------------------------------------------------------------------------------------------------------------------------------------#
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w1200h700/q80/jpg" group-title="บอลไทย",Live6 บอลไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ttbd-3tv.com/
-https://ttbd-3tv.com/ob4/index.m3u8
 
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w1200h700/q80/jpg" group-title="บอลไทย",Live7 บอลไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ttbd-3tv.com/
-https://ttbd-3tv.com/ob5/index.m3u8
-
-#EXTINF:-1 tvg-id="monomax" tvg-name="monomax" tvg-logo="https://s.isanook.com/hi/0/ud/312/1560949/untitled-1.jpg?ip/crop/w1200h700/q80/jpg" group-title="บอลไทย",Live9 บอลไทย
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ttbd-3tv.com/
-https://ttbd-3tv.com/ob1/index.m3u8
 
 
 
